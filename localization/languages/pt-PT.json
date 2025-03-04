@@ -27,11 +27,11 @@
     "goBack": "Recuar",
     "goForward": "Avançar",
     "inspectElement": "Inspecionar elemento",
-    "translatePage": null, // missing translation
+    "translatePage": "Traduzir página",
     /* searchbar */
-    "placesPluginOpenAgain": null, // missing translation
-    "placesPluginSwitchToTab": null, // missing translation
-    "placesPluginSwitchToTask": null, // missing translation
+    "placesPluginOpenAgain": "Abrir novamente",
+    "placesPluginSwitchToTab": "Trocar para o separador",
+    "placesPluginSwitchToTask": "Trocar para \"%t\",
     "pasteAndGo": "Colar e ir",
     "DDGAnswerSubtitle": "Resposta", //this is a noun - it is used as a subtitle when displaying Instant Answers from DuckDuckGo in the searchbar
     "suggestedSite": "Site sugerido", //this is used to label suggested websites from the DuckDuckGo API,
